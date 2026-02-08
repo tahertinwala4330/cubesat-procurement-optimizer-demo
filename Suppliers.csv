@@ -1,0 +1,9 @@
+Components,Suppliers,Unit_Cost,Lead_Time_Days,MOQ
+SolarPanel,SupplierA,900,60,10
+SolarPanel,SupplierB,1100,30,5
+BatteryPack,SupplierC,500,45,5
+BatteryPack,SupplierD,650,20,2
+ReactionWheel,SupplierE,2000,75,6
+ReactionWheel,SupplierF,2400,40,3
+Transceiver,SupplierG,800,50,4
+Transceiver,SupplierH,950,25,2
