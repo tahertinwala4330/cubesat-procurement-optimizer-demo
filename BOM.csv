@@ -1,5 +1,0 @@
-Component,Subsystem,Qty/Sat
-SolarPanel,Power,4
-BatteryPack,Power,1
-ReactionWheel,ADCS,3
-Transceiver,Comms,1
